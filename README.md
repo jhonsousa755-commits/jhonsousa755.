@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Desenvolvedor Full Stack | Gestor Administrativo
 
-Com mais de 4 anos de experiência na área administrativa na **Ótica Ceará**, utilizo minha visão de negócio para criar softwares que realmente resolvem problemas. Atualmente, foco no desenvolvimento de soluções robustas com **React**, **Firebase** e tecnologias voltadas para **Gestão Financeira**.
+Com mais de 4 anos de experiência na área administrativa, utilizo minha visão de negócio para criar softwares que realmente resolvem problemas. Atualmente, foco no desenvolvimento de soluções robustas com **React**, **Firebase** e tecnologias voltadas para **Gestão Financeira**.
 
 ---
 
